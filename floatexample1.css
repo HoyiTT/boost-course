@@ -1,0 +1,43 @@
+header{
+  background-color:#eee;
+  margin-bottom
+}
+li{
+  list-style:none;
+}
+#wrap{
+  
+  overflow:auto;
+  margin:20px 0px;
+}
+.left,.right,.realright{
+  float:left;
+  height:170px;
+}
+.left{
+  width:17%;
+  margin-right:3%;
+  background-color:#c7c;
+}
+.right{
+  width:60%;
+  text-align:center;
+  background-color:#a7c;
+}
+.right<h2{
+  position: relative;
+}
+.realright{
+  position:float;
+  width:17%;
+  margin:0px 3px;
+}
+.right .emoticon{
+  position: absolute;
+  top:0px;
+  right:10px;
+}
+footer{
+  background-color:#eee;
+  clear:left;
+}
